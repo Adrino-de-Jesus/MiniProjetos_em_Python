@@ -1,2 +1,2 @@
-# MiniProjetos_em_Python
+# Projetos_em_Python
 Projetos no meu aprendizado
